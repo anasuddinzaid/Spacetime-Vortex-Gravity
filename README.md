@@ -1,4 +1,4 @@
-# Spacetime Vortex Gravity (SVG)
+# Spacetime Vortex Gravity (SVG) — by Mohmad Anasuddin Zaid
 ### A New Model of Gravity from Rotational Vortex Structures in Spacetime
 
 **Author:** Mohmad Anasuddin Zaid  
