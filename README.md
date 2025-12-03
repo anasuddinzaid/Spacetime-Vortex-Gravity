@@ -39,6 +39,6 @@ The goal of SVG is not to discard Einstein’s work, but to extend it by explain
 
 ---
 
-**LinkedIn:** [Mohmad Anasuddin Zaid](https://www.linkedin.com/in/mohmad-a-134266377/)
+**LinkedIn:** [Mohmad Anasuddin Zaid](https://www.linkedin.com/in/mohd-anasuddin-zaid)
 **Theory Name:** Spacetime Vortex Gravity (SVG)  
 **Theory ID:** SVG-v1.0
